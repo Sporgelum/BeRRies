@@ -1,5 +1,0 @@
-#Description of the berries sugar:
-#http://users.stat.ufl.edu/~winner/data/berry_sugar_chewy.txt
-
-#Berries dataset link:
-#http://users.stat.ufl.edu/~winner/data/berry_sugar_chewy.csv
